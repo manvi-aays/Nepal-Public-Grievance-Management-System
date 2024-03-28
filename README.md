@@ -87,7 +87,7 @@ To get started with the Nepal Public Grievance Management System, follow the ins
 2. Access the system through your web browser at `http://localhost:3000`.
 
 ## Team Details
-Meet the talented individuals behind the *Drive 3.0* project:
+Meet the talented individuals behind NPGMS:
 
 - *Shreyas Singh*
   - Role: Smart Contract Developer

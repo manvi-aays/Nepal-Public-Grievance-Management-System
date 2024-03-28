@@ -86,6 +86,18 @@ To get started with the Nepal Public Grievance Management System, follow the ins
 
 2. Access the system through your web browser at `http://localhost:3000`.
 
+## Team Details
+Meet the talented individuals behind the *Drive 3.0* project:
+
+- *Shreyas Singh*
+  - Role: Smart Contract Developer
+  - LinkedIn: [Shreyas Singh](https://www.linkedin.com/in/4shreyassingh5/)
+    
+- *Jyotendra Singh*
+  - Role: Frontend Developer
+  - LinkedIn: [Jyotendra Singh](https://www.linkedin.com/in/jyotendra-singh-chauhan/)
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please [fork the repository](https://github.com/your-username/grievance-management-system/fork), make your changes, and submit a pull request.

@@ -2,8 +2,8 @@ import { TezosToolkit } from '@taquito/taquito'; // Ensure you have the correct 
 
 const endpoint = new TezosToolkit('https://api.tez.ie/rpc/mainnet/');
 
-// Correctly formatted async function
+// Correct async function definition
 const tzKTConverter = async (address: string): Promise<void> => {
-  // Placeholder for future code
-  // "compilerOptions": { "isolatedModules": false } is not valid here
+  // Function body should be filled with actual logic
+  // For now, it is just a placeholder
 };
